@@ -1,0 +1,163 @@
+{
+  "name": "株式会社SAI",
+  "industry": "IT.コンサル",
+  "description": "業務の細部まで理解の最適な社内効率を提供\n社内環境に合わせご希望に沿ったシステム導入可能",
+  "targetAudience": "",
+  "contactInfo": "SAI-AI.com",
+  "style": {
+    "primaryColor": "#0033CC",
+    "secondaryColor": "#66CCFF",
+    "backgroundColor": "#F4F4F4",
+    "fontFamily": "sans",
+    "borderRadius": "md"
+  },
+  "seo": {
+    "title": "株式会社SAI - 形あるDXへ",
+    "description": "業務の細部まで理解し、最適な社内効率を提供するITコンサルティング会社株式会社SAIです。",
+    "keywords": [
+      "ITコンサル",
+      "DX",
+      "業務効率",
+      "システム導入"
+    ]
+  },
+  "pages": [
+    {
+      "title": "ホーム",
+      "slug": "/",
+      "seo": {
+        "title": "株式会社SAI | ホーム",
+        "description": "株式会社SAIのホームページです。最適な社内効率を提供するITコンサルタントです。",
+        "keywords": [
+          "ホーム",
+          "ITコンサル",
+          "DX",
+          "業務効率"
+        ]
+      },
+      "sections": [
+        {
+          "type": "hero",
+          "title": "株式会社SAIへようこそ",
+          "subtitle": "形あるDXへ",
+          "content": "私たちは業務の細部まで理解し、最適な社内効率を提供します。",
+          "id": "1e7d5bc1-6da3-48ad-960a-84009b62d0bf"
+        },
+        {
+          "type": "features",
+          "title": "サービスの特徴",
+          "content": "ITコンサルティングとシステム導入を通じて、企業の業務効率化を支援します。",
+          "id": "61d554d8-24f3-4bd4-8f51-d6d33d8f4cf7"
+        },
+        {
+          "type": "faq",
+          "title": "よくある質問",
+          "content": "お客様から寄せられる質問にお答えします。",
+          "id": "653be497-6b46-494e-97ce-36368d255a2d"
+        }
+      ]
+    },
+    {
+      "title": "サービス",
+      "slug": "/services",
+      "seo": {
+        "title": "株式会社SAI | サービス",
+        "description": "株式会社SAIが提供するサービスについてのページです。",
+        "keywords": [
+          "サービス",
+          "ITコンサル",
+          "システム導入"
+        ]
+      },
+      "sections": [
+        {
+          "type": "hero",
+          "title": "私たちのサービス",
+          "subtitle": "あなたのビジネスをサポート",
+          "content": "社内環境に合わせたシステム導入が可能です。",
+          "id": "0e4c4c0a-b8a9-4818-93fe-746cb725caef"
+        },
+        {
+          "type": "stats",
+          "title": "導入実績",
+          "content": "数多くの企業様にご導入いただいています。詳細はお問い合わせください。",
+          "id": "294faca1-e4ee-4059-af31-de10de0aec04"
+        },
+        {
+          "type": "about",
+          "title": "私たちの使命",
+          "content": "業務の細部まで理解することで、最適なソリューションを提供します。",
+          "id": "b709ead0-012b-4466-ba96-1f9921fa0f3f"
+        }
+      ]
+    },
+    {
+      "title": "会社概要",
+      "slug": "/about",
+      "seo": {
+        "title": "株式会社SAI | 会社概要",
+        "description": "株式会社SAIについての詳細情報です。",
+        "keywords": [
+          "会社概要",
+          "SAI",
+          "企業情報"
+        ]
+      },
+      "sections": [
+        {
+          "type": "hero",
+          "title": "会社概要",
+          "subtitle": "私たちの歴史とビジョン",
+          "content": "2024年12月26日設立。業務の細部まで精通したITコンサルタント集団です。",
+          "id": "cec07f72-8f3d-4907-80d4-92244fc2e103"
+        },
+        {
+          "type": "about",
+          "title": "私たちのビジョン",
+          "content": "形あるDXを実現し、社会に貢献します。",
+          "id": "930823c1-08f6-436c-9760-f631ed4859b3"
+        },
+        {
+          "type": "features",
+          "title": "チームについて",
+          "content": "私たちの専門家チームが業務をサポートします。",
+          "id": "40b260c7-30d0-4f25-a18b-fdc511a9d49f"
+        }
+      ]
+    },
+    {
+      "title": "お問い合わせ",
+      "slug": "/contact",
+      "seo": {
+        "title": "株式会社SAI | お問い合わせ",
+        "description": "株式会社SAIへのお問い合わせページです。",
+        "keywords": [
+          "お問い合わせ",
+          "連絡先",
+          "SAI"
+        ]
+      },
+      "sections": [
+        {
+          "type": "hero",
+          "title": "お問い合わせ",
+          "subtitle": "お気軽にお問い合わせください",
+          "content": "私たちは、あなたのニーズをお聞かせいただく準備ができています。",
+          "id": "c57fac2a-4183-4220-bb4b-33eeca7ee855"
+        },
+        {
+          "type": "contact",
+          "title": "連絡先",
+          "content": "SAI-AI.comでお問い合わせください。",
+          "id": "51ecd037-24a4-4b4e-acca-a4e107b6e2c2"
+        },
+        {
+          "type": "faq",
+          "title": "お問い合わせに関するよくある質問",
+          "content": "お客様からよくあるお問い合わせにお答えします。",
+          "id": "8553816f-9f51-4ce4-a28b-a028066d30df"
+        }
+      ]
+    }
+  ]
+}
