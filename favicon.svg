@@ -1,11 +1,5 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" fill="none">
-  <defs><linearGradient id="g" x1="0" y1="0" x2="32" y2="32" gradientUnits="userSpaceOnUse"><stop stop-color="#0041C4"/><stop offset="1" stop-color="#00C2FF"/></linearGradient></defs>
-  <rect width="32" height="32" rx="7" fill="url(#g)"/>
-  <rect x="10" y="10" width="12" height="12" rx="2.5" stroke="#fff" stroke-width="1.8" fill="none"/>
-  <line x1="10" y1="16" x2="4" y2="16" stroke="#fff" stroke-width="1.6"/>
-  <line x1="22" y1="13" x2="28" y2="8" stroke="#fff" stroke-width="1.6"/>
-  <line x1="22" y1="19" x2="28" y2="24" stroke="#fff" stroke-width="1.6"/>
-  <circle cx="3" cy="16" r="2" stroke="#fff" stroke-width="1.4" fill="none"/>
-  <circle cx="29" cy="7" r="2" stroke="#fff" stroke-width="1.4" fill="none"/>
-  <circle cx="29" cy="25" r="2" stroke="#fff" stroke-width="1.4" fill="none"/>
+  <rect width="32" height="32" rx="6" fill="#1B2A4A"/>
+  <text x="3" y="23" font-family="Arial,sans-serif" font-weight="900" font-size="13" fill="#fff" letter-spacing="-0.5">SAI</text>
+  <polygon points="12,12 17,12 17,9 21,16 17,23 17,20 12,20" fill="#4A9EF5"/>
 </svg>
